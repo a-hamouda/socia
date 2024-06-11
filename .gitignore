@@ -1,3 +1,7 @@
+# Compiled class files
+**/target/
+**/*.class
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
